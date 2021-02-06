@@ -1,0 +1,19 @@
+this example has been inspired by
+Axel Kohlmeyer (Temple Univ.)
+seminar "Mixing C, C++, and Fortran".
+It shows how to call
+functions compiled in c object code
+from a fortran f77 program.
+The makefile and test has been done
+using gnu gcc gfortran compilers
+that can run on GNU/linux, unix(es), 
+MacOS and MS win (mingw gcc).
+
+
+# to compile
+make
+# to run
+./cfmix01
+# to remove generated files
+make clean
+
