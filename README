@@ -13,7 +13,7 @@ MacOS and MS win (mingw gcc).
 # to compile
 make
 # to run
-./cfmix01
+./callc
 # to remove generated files
 make clean
 
